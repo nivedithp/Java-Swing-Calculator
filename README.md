@@ -23,4 +23,4 @@ A basic calculator application developed using Java Swing.
 3. Run calculator.java.
 
 ## Author
-Nived
+Nivedith_p
